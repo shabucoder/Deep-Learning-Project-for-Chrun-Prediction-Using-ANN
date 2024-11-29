@@ -1,5 +1,5 @@
 tensorflow>=2.16.0
-#pandas
+pandas
 numpy
 tensorboard
 matplotlib
